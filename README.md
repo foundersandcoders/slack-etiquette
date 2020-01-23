@@ -7,6 +7,7 @@ Welcome to the Foundesr and Coders Slack room for our applicants. Here are some 
 ## Overview
 
 * [Contributing](#contributing)
+* [Getting started](#getting-started)
 * [Etiquette](#etiquette)
 
 ## Getting started 
