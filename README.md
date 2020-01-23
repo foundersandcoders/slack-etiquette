@@ -2,13 +2,17 @@
 
 ## Welcome!
 
-Welcome to the Foundesr and Coders Slack room for our applicants. Here are some guidlines to help you familarise yourself with our online community. 
+Welcome to the Founders and Coders Slack for applicants. Here are some guidlines to help you familarise yourself with our online community. 
 
 ## Overview
 
 * [Contributing](#contributing)
 * [Getting started](#getting-started)
 * [Etiquette](#etiquette)
+
+## Contributing 
+
+This is a community resource. If you feel there are aspects to this guideline which should be modified, please open a pull request with your suggested changes at www.github.com/foundersandcoders/slack-etiquette. 
 
 ## Getting started 
 
