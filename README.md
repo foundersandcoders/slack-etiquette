@@ -2,12 +2,12 @@
 
 ## Welcome!
 
-Welcome to our Slack for applicants, here are some guidlines to help you familarise yourself with our online community: 
+Welcome to the Foundesr and Coders Slack room for our applicants. Here are some guidlines to help you familarise yourself with our online community. 
 
 ## Overview
 
 * [Contributing](#contributing)
-* [Etiqutte](#Etiquette)
+* [Etiquette](#etiquette)
 
 ## Getting started 
 
