@@ -98,7 +98,7 @@ Take a browse at our list of channels and find the cohort you're interested in a
 ## Your admins 
 
 Yvonne Liu: @yvonne  
-Dan Sofer: @dan
+Dan Sofer: @dan  
 Bobby Sebolao: @bobby
 
 There are also Founders and Coders students and alumni in our Slack workspace who can help. If you need help, please don't hesitate to reach out! 
