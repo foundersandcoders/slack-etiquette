@@ -20,7 +20,7 @@ This is a community resource. If you feel there are aspects of these guidelines 
 
 ## Getting started 
 
-We welcome anyone into our Slack room who is interested in learning how to code or is applying to our full-time programme in London. To join, please make sure you've submitted an [expression of interest]() and agreed to our [code of conduct]().  
+We welcome anyone into our Slack room who is interested in learning how to code or is applying to our full-time programme in London. To join, please make sure you've submitted an [expression of interest](https://docs.google.com/forms/u/1/d/e/1FAIpQLSepdNxKsrMjhfnbdkzKUgNpeWFmp8WLyiqTe_UY10TsPpFOEQ/viewform) and agreed to our [code of conduct](https://www.foundersandcoders.com/slack/).  
   
 ![Agreeing to our CoC](https://user-images.githubusercontent.com/22013117/72914439-9aa11e00-3d36-11ea-8eb6-87c8bcbb6525.gif)
 
@@ -45,7 +45,7 @@ Yvonne Liu: @yvonne
 Dan Sofer: @dan  
 Bobby Sebolao: @bobby
 
-For more information, please read our complete [Code of Conduct](https://github.com/SparkPost/sparkpost.github.io/blob/develop/CodeofConduct.md).
+For more information, please read our complete [Code of Conduct](https://www.foundersandcoders.com/slack/).
 
 ### Take a look around
 
@@ -68,7 +68,7 @@ If you post outside of working hours for a team, be patient, they will get back 
 
 Slack is about communication, so please use the public channels whenever possible. This is good for transparency, but also keeps the community vibrant and alive. You also have an opportunity to help someone else who might find your conversation/question helpful or encouraging.
 
-Please also be sure to check out our [FAQ]() on our website, some of your questions may already be answered there! 
+Please also be sure to check out our [FAQ](https://www.foundersandcoders.com/about/) on our website, some of your questions may already be answered there! 
 
 ### Unsolicited private messages (DMs)
 
