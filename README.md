@@ -16,7 +16,7 @@ Welcome to the Founders and Coders Slack for applicants. Here are some guideline
 
 ## Contributing 
 
-This is a community resource. If you feel there are aspects of these guidelines which should be clarified or modified, please raise an issue to start the discussion at [https://github.com/foundersandcoders/slack-etiquette](/foundersandcoders/slack-etiquette)
+This is a community resource. If you feel there are aspects of these guidelines which should be clarified or modified, [please raise an issue to start the discussion](https://github.com/foundersandcoders/slack-etiquette/issues/new).
 
 ## Getting started 
 
