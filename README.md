@@ -83,15 +83,15 @@ Slack supports bold, italics, code blocks and other formatting. You can use this
 
 ### #announcements 
 
-Everyone will be automatically added into this channel. Admins will have posting priveleges. This is a good place to watch to have most up-to-date information on meetups and workshops. 
+Everyone will be automatically added into this channel. Admins will have posting privileges. This is a good place to watch to have the most up-to-date information on meetups and workshops. 
 
 ### #london
 
-Everyone will be automtically added into this channel. Everyone can post in this channel. This is a good place to get to know other applicants, ask coding related questions, or ask the admins on anything. 
+Everyone will be automatically added into this channel. Everyone can post in this channel. This is a good place to get to know other applicants, ask coding related questions, or ask the admins on anything. 
 
 ### #season-year-applicants 
 
-Take a browse at our list of channels and find the cohort you're interested in applying. We organise our cohorts by season-year-applicants. For example, if you're interested in applying for the Summer 2020 cohort, the channel name will be `#summer-2020-applicants`: 
+Browse our list of channels and find the cohort you're interested in applying for. We organise our cohorts by season-year-applicants. For example, if you're interested in applying for the Summer 2020 cohort, the channel name will be `#summer-2020-applicants`: 
 
 ![](https://user-images.githubusercontent.com/22013117/73089368-f8b43980-3ecd-11ea-9a0b-851af457254e.gif)
 
