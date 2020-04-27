@@ -43,7 +43,8 @@ If there is someone who isn't behaving well or makes you uncomfortable, be hones
 
 Yvonne Liu: @yvonne  
 Dan Sofer: @dan  
-Bobby Sebolao: @bobby
+Gregor Thomson: @gregor
+Oliver Phillips: @oli 
 
 For more information, please read our complete [Code of Conduct](https://www.foundersandcoders.com/slack/).
 
@@ -99,7 +100,8 @@ Browse our list of channels and find the cohort you're interested in applying fo
 
 Yvonne Liu: @yvonne  
 Dan Sofer: @dan  
-Bobby Sebolao: @bobby
+Gregor Thomson: @gregor
+Oliver Phillips: @oli
 
 There are also Founders and Coders students and alumni in our Slack workspace who can help. If you need help, please don't hesitate to reach out! 
 
