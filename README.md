@@ -48,6 +48,10 @@ Oliver Phillips: @oli
 
 For more information, please read our complete [Code of Conduct](https://www.foundersandcoders.com/slack/).
 
+### Use inclusive language
+
+Our community is large and diverse. Please consider your choice of words carefully to avoid excluding anyone. For example when greeting a group of people avoid phrases like "hey guys" (since not everyone is a guy). Try "hey everyone" instead. Also please default to using "they" to refer to someone whose gender or pronouns you do not know.
+
 ### Take a look around
 
 Joining a Slack channel is a lot like walking into a room. Don't just walk in and start talking.
